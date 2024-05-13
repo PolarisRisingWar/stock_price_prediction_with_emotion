@@ -1,6 +1,8 @@
 整理我之前做这个课题的时候整理的一些资料
 
 # 论文
+## 2024年
+1. (UTA硕士论文) [Stock Price Trend Prediction using Emotion Analysis of Financial Headlines with Distilled LLM Model](https://mavmatrix.uta.edu/cgi/viewcontent.cgi?article=1004&context=cse_theses)
 ## 2021年
 1. (ESWA) [Applications of deep learning in stock market prediction: Recent progress](https://arxiv.org/abs/2003.01859)
 
